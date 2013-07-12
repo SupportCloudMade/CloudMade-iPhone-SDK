@@ -1,4 +1,4 @@
--CloudMade-iPhone-SDK
+CloudMade-iPhone-SDK
 =====================
 
 CloudMade iOS SDK
